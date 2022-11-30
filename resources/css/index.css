@@ -1,0 +1,42 @@
+.icon{
+    position: relative;
+    width: 27px;
+    height: 9px;
+    left:0px;
+    top:8px;
+    background: linear-gradient(96.34deg, #E537B9 0%, #C040DF 100%);
+    border-radius: 4.5px;
+}
+html,
+body{
+    position: relative;
+    font-family: 'Montserrat', sans-serif !important;
+}
+.navbar-brand
+{
+    nav-right:50px
+}
+body
+{
+    
+    font-family: 'Montserrat', sans-serif !important;
+}
+a{
+    text-decoration: none;
+    color:inherit;
+}
+a:hover{
+    text-decoration: none;
+    color:inherit;
+}
+a:visited{
+    text-decoration: none;
+    color:inherit;
+}
+.justify-content-center
+{
+    justify-content: center!important
+}
+.author{
+    color:#586069;
+}
